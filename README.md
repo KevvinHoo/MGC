@@ -1,6 +1,3 @@
-# MGC
-The Implementation About the MGC(`MGC:Maximum Gradient Compression in Distributed Deep Learning`)
-
 # Setup
 We used the GRACE, which is a gradient compression framework for PyTorch,TensorFlow and Keras, to implement our learning system. To start with our code, you should get the correct version of the software below:
 ```
